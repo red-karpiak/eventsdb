@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "category": "animal welfare",
+            "title": "Pet Adoption Day",
+            "description": "Come adopt a pet!",
+            "location": "1234 NE 12th St, Washington, DC",
+            "date": "January 5, 2024",
+            "time": "12:00 PM",
+            "petsAllowed": true,
+            "organizer": "DC Animal Shelter"
+        },
+        {
+            "id": 2,
+            "category": "mechanical welfare",
+            "title": "Car Adoption Day",
+            "description": "Come adopt a car!",
+            "location": "1234 NE 12th St, Washington, DC",
+            "date": "January 5, 2024",
+            "time": "12:00 PM",
+            "petsAllowed": true,
+            "organizer": "DC Car Shelter"
+        },
+        {
+            "id": 3,
+            "category": "human welfare",
+            "title": "Human Adoption Day",
+            "description": "Come adopt a human!",
+            "location": "1234 NE 12th St, Washington, DC",
+            "date": "January 5, 2024",
+            "time": "12:00 PM",
+            "petsAllowed": true,
+            "organizer": "DC Human Shelter"
+        }
+    ]
+}
